@@ -48,8 +48,7 @@ This project explores global tech layoffs using structured SQL queries for data 
 ## Files Included
 - `Data cleaning.sql` -> File having queries related to Data cleaning
 - `EDA.sql` -> File having queries related to exploratory data analysis
-- `GLOBAL_LAYOFFS_ANALYSIS.pdf` -> Report
-Outputs_for_EDA.xlsx
-README.md
-_Globaal_Layoffs_visualization_.twbx
+- `GLOBAL_LAYOFFS_ANALYSIS.pdf` -> Report including all the details of project
+- `Outputs_for_EDA.xlsx` -> All the outputs of EDA are stored in this .xlsx file
+- `_Globaal_Layoffs_visualization_.twbx` -> Visualizations of Insights
 
